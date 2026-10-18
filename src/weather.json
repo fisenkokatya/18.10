@@ -1,0 +1,7 @@
+{
+  "Bishkek": { "temp": 15, "description": "Sunny", "icon": "☀" },
+  "Osh": { "temp": 15, "description": "Cloudy", "icon": "☁" },
+  "Cholpon-Ata": { "temp": 18, "description": "Sunny", "icon": "☀" },
+  "Tokyo": { "temp": 22, "description": "Rainy", "icon": "🌧" },
+  "Toronto": { "temp": 10, "description": "Snowy", "icon": "❄" }
+}

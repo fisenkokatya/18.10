@@ -1,0 +1,26 @@
+.card {
+  padding: 20px;
+  border-radius: 12px;
+  background: #f0f4ff;
+  text-align: center;
+  width: 200px;
+}
+
+.city {
+  margin: 0 0 10px;
+}
+
+.icon {
+  font-size: 48px;
+}
+
+.temp {
+  font-size: 32px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.description {
+  color: #555;
+  margin: 0;
+}
